@@ -1,429 +1,1472 @@
 {
- "metadata": {
- "diocese": "Phát Diệm",
- "diocese_code": "phat_diem",
- "liturgical_year": "2025-2026",
- "cycle": "A",
- "weekday_cycle": "II",
- "zodiac": "Ất Tỵ - Bính Ngọ",
- "publisher": "Tòa Giám mục Phát Diệm",
- "source": "NHỮNG NGÀY LỄ CÔNG GIÁO NĂM A 2025-2026",
- "version": "1.0.0",
- "updated": "2026-08-02",
- "note": "Cập nhật bằng cách ghi đè file này mỗi năm. Không tạo file theo năm."
- },
- "days": [
- {
- "id": "2025-11-30",
- "solar": "2025-11-30",
- "lunar": "11/10",
- "weekday": "Chúa Nhật",
- "color": "Tm",
- "title": "CHÚA NHẬT I MÙA VỌNG",
- "content": "Thánh vịnh tuần I. Bài đọc Chúa Nhật: Năm A. Xứ Kim Tạo và xứ Yên Sơn chầu Mình Thánh.",
- "readings": ["Is 2,1-5", "Rm 13,11-14a", "Mt 24,37-44"],
- "notes": "Không cử hành lễ thánh Anrê. Trong các Chúa Nhật Mùa Vọng không được cử hành thánh lễ an táng.",
- "season": "Mùa Vọng"
- },
- {
- "id": "2025-12-03",
- "solar": "2025-12-03",
- "lunar": "14/10",
- "weekday": "Thứ Tư",
- "color": "Tr",
- "title": "THÁNH PHANXICÔ XAVIÊ, LINH MỤC",
- "content": "Bổn mạng các xứ truyền giáo. Lễ kính. Thứ Tư đầu tháng.",
- "readings": ["1 Cr 9,16-19.22-23", "Mc 16,15-20"],
- "season": "Mùa Vọng",
- "rank": "Lễ kính"
- },
- {
- "id": "2025-12-07",
- "solar": "2025-12-07",
- "lunar": "18/10",
- "weekday": "Chúa Nhật",
- "color": "Tm",
- "title": "CHÚA NHẬT II MÙA VỌNG",
- "content": "Thánh vịnh tuần II. Xứ Xích Thổ và xứ Phú Hậu chầu Mình Thánh. Giỗ Đức Cha Alecxăng Maccu Thành (+1939).",
- "readings": ["Is 11,1-10", "Rm 15,4-9", "Mt 3,1-12"],
- "notes": "Không cử hành lễ thánh Ambrôsiô. (Đại tuyết)",
- "season": "Mùa Vọng"
- },
- {
- "id": "2025-12-08",
- "solar": "2025-12-08",
- "lunar": "19/10",
- "weekday": "Thứ Hai",
- "color": "Tr",
- "title": "ĐỨC MẸ VÔ NHIỄM NGUYÊN TỘI",
- "content": "Lễ trọng. Cha xứ dâng lễ cầu cho giáo dân.",
- "readings": ["St 3,9-15.20", "Ep 1,3-6.11-12", "Lc 1,26-38"],
- "season": "Mùa Vọng",
- "rank": "Lễ trọng",
- "is_obligation": true
- },
- {
- "id": "2025-12-14",
- "solar": "2025-12-14",
- "lunar": "25/10",
- "weekday": "Chúa Nhật",
- "color": "Tm",
- "title": "CHÚA NHẬT III MÙA VỌNG",
- "content": "Thánh vịnh tuần III. Cầu cho việc học và dạy giáo lý. Xứ Tân Khẩn và xứ Lạc Bình chầu Mình Thánh. Có thể dùng màu hồng.",
- "readings": ["Is 35,1-6a.10", "Gc 5,7-10", "Mt 11,2-11"],
- "notes": "Không cử hành lễ thánh Gioan Thánh Giá.",
- "season": "Mùa Vọng"
- },
- {
- "id": "2025-12-21",
- "solar": "2025-12-21",
- "lunar": "02/11",
- "weekday": "Chúa Nhật",
- "color": "Tm",
- "title": "CHÚA NHẬT IV MÙA VỌNG",
- "content": "Thánh vịnh tuần IV. Xứ Sơn Lũy và họ Quy Hậu (thuộc xứ Tôn Đạo) chầu Mình Thánh.",
- "readings": ["Is 7,10-14", "Rm 1,1-7", "Mt 1,18-24"],
- "notes": "Không cử hành lễ thánh Phêrô Canisiô. (Đông chí)",
- "season": "Mùa Vọng"
- },
- {
- "id": "2025-12-25",
- "solar": "2025-12-25",
- "lunar": "06/11",
- "weekday": "Thứ Năm",
- "color": "Tr",
- "title": "CHÚA GIÁNG SINH",
- "content": "Lễ trọng với tuần bát nhật. Lễ buộc, nghỉ việc xác. Cha xứ dâng lễ cầu cho giáo dân.",
- "readings": {
- "dem": ["Is 9,1-6", "Tt 2,11-14", "Lc 2,1-14"],
- "rang_dong": ["Is 62,11-12", "Tt 3,4-7", "Lc 2,15-20"],
- "ban_ngay": ["Is 52,7-10", "Dt 1,1-6", "Ga 1,1-18"]
- },
- "notes": "Không được cử hành thánh lễ an táng. Bái gối trong Kinh Tin Kính.",
- "season": "Mùa Giáng Sinh",
- "rank": "Lễ trọng",
- "is_obligation": true,
- "is_holy_day": true
- },
- {
- "id": "2025-12-28",
- "solar": "2025-12-28",
- "lunar": "09/11",
- "weekday": "Chúa Nhật",
- "color": "Tr",
- "title": "THÁNH GIA: CHÚA GIÊSU, ĐỨC MARIA VÀ THÁNH GIUSE",
- "content": "Lễ kính. Xứ An Ngải, Tân Hóa, Xuân Hồi, Yên Khê chầu Mình Thánh.",
- "readings": ["Hc 3,3-7.14-17a", "Cl 3,12-21", "Mt 2,13-15.19-23"],
- "notes": "Không cử hành lễ Các Thánh Anh Hài.",
- "season": "Mùa Giáng Sinh",
- "rank": "Lễ kính"
- },
- {
- "id": "2026-01-01",
- "solar": "2026-01-01",
- "lunar": "13/11",
- "weekday": "Thứ Năm",
- "color": "Tr",
- "title": "THÁNH MARIA, MẸ THIÊN CHÚA",
- "content": "Lễ trọng. Ngày Thế giới Hòa bình.",
- "readings": ["Ds 6,22-27", "Gl 4,4-7", "Lc 2,16-21"],
- "season": "Mùa Giáng Sinh",
- "rank": "Lễ trọng",
- "is_obligation": true
- },
- {
- "id": "2026-01-04",
- "solar": "2026-01-04",
- "lunar": "16/11",
- "weekday": "Chúa Nhật",
- "color": "Tr",
- "title": "CHÚA HIỂN LINH",
- "content": "Lễ trọng. Cha xứ dâng lễ cầu cho giáo dân. Hội dòng Mến Thánh Giá Phát Diệm, xứ Hoàng Mai và xứ Hải Cường chầu Mình Thánh.",
- "readings": ["Is 60,1-6", "Ep 3,2-3a.5-6", "Mt 2,1-12"],
- "season": "Mùa Giáng Sinh",
- "rank": "Lễ trọng",
- "is_obligation": true
- },
- {
- "id": "2026-01-11",
- "solar": "2026-01-11",
- "lunar": "23/11",
- "weekday": "Chúa Nhật",
- "color": "Tr",
- "title": "CHÚA GIÊSU CHỊU PHÉP RỬA",
- "content": "Lễ kính. Cầu cho việc học và dạy giáo lý. Xứ Vô Hốt, Antôn, Tri Điền chầu Mình Thánh. Khai mạc Năm Thánh 125 năm thành lập Giáo phận. Được lãnh Ơn Toàn Xá.",
- "readings": ["Is 42,1-4.6-7", "Cv 10,34-38", "Mt 3,13-17"],
- "season": "Mùa Giáng Sinh",
- "rank": "Lễ kính"
- },
- {
- "id": "2026-02-17",
- "solar": "2026-02-17",
- "lunar": "01/01",
- "weekday": "Thứ Ba",
- "color": "Tr",
- "title": "MỒNG MỘT TẾT BÍNH NGỌ – CẦU BÌNH AN CHO NĂM MỚI",
- "content": "Có thể cử hành lễ ngoại lịch. Được lãnh Ơn Toàn Xá tại các giáo xứ.",
- "readings": {
- "giao_thua": ["Ds 6,22-27", "1 Tx 5,16-26.28", "Mt 5,1-10"],
- "tan_nien": ["St 1,14-18", "Pl 4,4-8", "Mt 6,25-34"]
- },
- "season": "Tết / Thường Niên"
- },
- {
- "id": "2026-02-20",
- "solar": "2026-02-20",
- "lunar": "04/01",
- "weekday": "Thứ Sáu",
- "color": "Tm",
- "title": "LỄ TRO",
- "content": "Giữ chay và kiêng thịt (đã dời từ Thứ Tư vì trùng Tết).",
- "readings": ["Ge 2,12-18", "2 Cr 5,20–6,2", "Mt 6,1-6.16-18"],
- "notes": "CGKPV vẫn đọc đúng ngày Thứ Tư Lễ Tro.",
- "season": "Mùa Chay",
- "is_fasting": true,
- "is_abstinence": true
- },
- {
- "id": "2026-02-22",
- "solar": "2026-02-22",
- "lunar": "06/01",
- "weekday": "Chúa Nhật",
- "color": "Tm",
- "title": "CHÚA NHẬT I MÙA CHAY",
- "content": "Thánh vịnh tuần I. Xứ Ứng Luật và xứ Phú Thuận chầu Mình Thánh.",
- "readings": ["St 2,7-9; 3,1-7", "Rm 5,12-19", "Mt 4,1-11"],
- "season": "Mùa Chay"
- },
- {
- "id": "2026-03-19",
- "solar": "2026-03-19",
- "lunar": "01/02",
- "weekday": "Thứ Năm",
- "color": "Tr",
- "title": "THÁNH GIUSE, BẠN TRĂM NĂM ĐỨC MARIA",
- "content": "Lễ trọng. Quan thày chung giáo tỉnh Hà Nội; quan thầy giới Gia Trưởng. Cha xứ dâng lễ cầu cho giáo dân.",
- "readings": ["2 Sm 7,4-5a.12-14a.16", "Rm 4,13.16-18.22", "Mt 1,16.18-21.24a"],
- "season": "Mùa Chay",
- "rank": "Lễ trọng",
- "is_obligation": true
- },
- {
- "id": "2026-03-25",
- "solar": "2026-03-25",
- "lunar": "07/02",
- "weekday": "Thứ Tư",
- "color": "Tr",
- "title": "LỄ TRUYỀN TIN",
- "content": "Lễ trọng.",
- "readings": ["Is 7,10-14; 8,10", "Dt 10,4-10", "Lc 1,26-38"],
- "notes": "Bái gối trong Kinh Tin Kính.",
- "season": "Mùa Chay",
- "rank": "Lễ trọng"
- },
- {
- "id": "2026-03-29",
- "solar": "2026-03-29",
- "lunar": "11/02",
- "weekday": "Chúa Nhật",
- "color": "Đ",
- "title": "CHÚA NHẬT LỄ LÁ",
- "content": "Tưởng niệm cuộc Thương Khó của Chúa. Xứ Hoài Lai và họ Mỹ Chính chầu Mình Thánh.",
- "readings": {
- "ruoc_la": ["Mt 21,1-11"],
- "thanh_le": ["Is 50,4-7", "Pl 2,6-11", "Mt 26,14–27,66"]
- },
- "season": "Tuần Thánh"
- },
- {
- "id": "2026-04-02",
- "solar": "2026-04-02",
- "lunar": "15/02",
- "weekday": "Thứ Năm",
- "color": "Tr",
- "title": "THỨ NĂM TUẦN THÁNH – THÁNH LỄ TIỆC LY",
- "content": "Thánh lễ Làm Phép Dầu (sáng). Thánh lễ Tiệc Ly (chiều).",
- "readings": {
- "lam_phep_dau": ["Is 61,1-3a.6a.8b-9", "Kh 1,5-8", "Lc 4,16-21"],
- "tiec_ly": ["Xh 12,1-8.11-14", "1 Cr 11,23-26", "Ga 13,1-15"]
- },
- "season": "Tam Nhật Vượt Qua"
- },
- {
- "id": "2026-04-03",
- "solar": "2026-04-03",
- "lunar": "16/02",
- "weekday": "Thứ Sáu",
- "color": "Đ",
- "title": "THỨ SÁU TUẦN THÁNH",
- "content": "Tưởng niệm cuộc Thương Khó của Chúa. Giữ chay và kiêng thịt.",
- "readings": ["Is 52,13–53,12", "Dt 4,14-16; 5,7-9", "Ga 18,1–19,42"],
- "season": "Tam Nhật Vượt Qua",
- "is_fasting": true,
- "is_abstinence": true
- },
- {
- "id": "2026-04-04",
- "solar": "2026-04-04",
- "lunar": "17/02",
- "weekday": "Thứ Bảy",
- "color": "Tr",
- "title": "VỌNG LỄ PHỤC SINH",
- "content": "Canh Thức Vượt Qua.",
- "readings": ["St 1,1–2,2", "St 22,1-18", "Xh 14,15–15,1a", "Is 54,5-14", "Is 55,1-11", "Br 3,9-15.32–4,4", "Ed 36,16-28", "Rm 6,3-11", 
-"Mt 28,1-10"],
- "season": "Tam Nhật Vượt Qua"
- },
- {
- "id": "2026-04-05",
- "solar": "2026-04-05",
- "lunar": "18/02",
- "weekday": "Chúa Nhật",
- "color": "Tr",
- "title": "CHÚA NHẬT PHỤC SINH",
- "content": "Mừng Chúa Sống Lại. Lễ trọng với tuần bát nhật. Nghỉ việc xác. Cha xứ dâng lễ cầu cho giáo dân. Xứ Tam Châu và xứ Yên Bình chầu Mình Thánh.",
- "readings": ["Cv 10,34a.37-43", "Cl 3,1-4", "Ga 20,1-9"],
- "season": "Mùa Phục Sinh",
- "rank": "Lễ trọng",
- "is_obligation": true,
- "is_holy_day": true
- },
- {
- "id": "2026-04-12",
- "solar": "2026-04-12",
- "lunar": "25/02",
- "weekday": "Chúa Nhật",
- "color": "Tr",
- "title": "CHÚA NHẬT II PHỤC SINH – LÒNG THƯƠNG XÓT CHÚA",
- "content": "Cuối tuần bát nhật. Xứ Tôn Đạo và xứ Hải Nạp chầu Mình Thánh. Kỷ niệm 125 năm thành lập Hạt Đại diện Tông tòa. Được lãnh Ơn Toàn Xá.",
- "readings": ["Cv 2,42-47", "1 Pr 1,3-9", "Ga 20,19-31"],
- "season": "Mùa Phục Sinh"
- },
- {
- "id": "2026-05-17",
- "solar": "2026-05-17",
- "lunar": "01/04",
- "weekday": "Chúa Nhật",
- "color": "Tr",
- "title": "CHÚA THĂNG THIÊN",
- "content": "Lễ trọng. Cha xứ dâng lễ cầu cho giáo dân. Xứ Cách Tâm chầu Mình Thánh. Được lãnh Ơn Toàn Xá.",
- "readings": ["Cv 1,1-11", "Ep 1,17-23", "Mt 28,16-20"],
- "season": "Mùa Phục Sinh",
- "rank": "Lễ trọng",
- "is_obligation": true
- },
- {
- "id": "2026-05-24",
- "solar": "2026-05-24",
- "lunar": "08/04",
- "weekday": "Chúa Nhật",
- "color": "Đ",
- "title": "CHÚA THÁNH THẦN HIỆN XUỐNG",
- "content": "Lễ trọng, nghỉ việc xác. Cha xứ dâng lễ cầu cho giáo dân. Xứ Hóa Lộc chầu Mình Thánh.",
- "readings": ["Cv 2,1-11", "1 Cr 12,3b-7.12-13", "Ga 20,19-23"],
- "season": "Mùa Phục Sinh",
- "rank": "Lễ trọng",
- "is_obligation": true,
- "is_holy_day": true
- },
- {
- "id": "2026-05-31",
- "solar": "2026-05-31",
- "lunar": "15/04",
- "weekday": "Chúa Nhật",
- "color": "Tr",
- "title": "CHÚA BA NGÔI",
- "content": "Lễ trọng. Xứ Hảo Nho chầu Mình Thánh.",
- "readings": ["Xh 34,4b-6.8-9", "2 Cr 13,11-13", "Ga 3,16-18"],
- "season": "Thường Niên",
- "rank": "Lễ trọng"
- },
- {
- "id": "2026-06-07",
- "solar": "2026-06-07",
- "lunar": "22/04",
- "weekday": "Chúa Nhật",
- "color": "Tr",
- "title": "MÌNH VÀ MÁU THÁNH CHÚA KITÔ",
- "content": "Lễ trọng. Cha xứ dâng lễ cầu cho giáo dân. Xứ Phát Diệm chầu Mình Thánh.",
- "readings": ["Đnl 8,2-3.14b-16a", "1 Cr 10,16-17", "Ga 6,51-58"],
- "season": "Thường Niên",
- "rank": "Lễ trọng",
- "is_obligation": true
- },
- {
- "id": "2026-06-12",
- "solar": "2026-06-12",
- "lunar": "27/04",
- "weekday": "Thứ Sáu",
- "color": "Tr",
- "title": "THÁNH TÂM CHÚA GIÊSU",
- "content": "Lễ trọng. Ngày thế giới xin ơn thánh hóa các linh mục.",
- "readings": ["Đnl 7,6-11", "1 Ga 4,7-16", "Mt 11,25-30"],
- "season": "Thường Niên",
- "rank": "Lễ trọng"
- },
- {
- "id": "2026-06-29",
- "solar": "2026-06-29",
- "lunar": "15/05",
- "weekday": "Thứ Hai",
- "color": "Đ",
- "title": "THÁNH PHÊRÔ VÀ THÁNH PHAOLÔ, TÔNG ĐỒ",
- "content": "Lễ trọng. Quan thày giáo phận. Cha xứ dâng lễ cầu cho giáo dân. Được lãnh Ơn Toàn Xá.",
- "readings": ["Cv 12,1-11", "2 Tm 4,6-8.17-18", "Mt 16,13-19"],
- "season": "Thường Niên",
- "rank": "Lễ trọng",
- "is_obligation": true
- },
- {
- "id": "2026-08-15",
- "solar": "2026-08-15",
- "lunar": "03/07",
- "weekday": "Thứ Bảy",
- "color": "Tr",
- "title": "ĐỨC MẸ LÊN TRỜI",
- "content": "Lễ trọng. Cha xứ dâng lễ cầu cho giáo dân. Được lãnh Ơn Toàn Xá.",
- "readings": ["Kh 11,19a; 12,1-6a.10b", "1 Cr 15,20-27", "Lc 1,39-56"],
- "season": "Thường Niên",
- "rank": "Lễ trọng",
- "is_obligation": true
- },
- {
- "id": "2026-11-01",
- "solar": "2026-11-01",
- "lunar": "23/09",
- "weekday": "Chúa Nhật",
- "color": "Tr",
- "title": "CÁC THÁNH NAM NỮ",
- "content": "Lễ trọng. Cha xứ dâng lễ cầu cho giáo dân. Xứ Bình Hòa và xứ Ngọc Cao chầu Mình Thánh.",
- "readings": ["Kh 7,2-4.9-14", "1 Ga 3,1-3", "Mt 5,1-12a"],
- "season": "Thường Niên",
- "rank": "Lễ trọng",
- "is_obligation": true
- },
- {
- "id": "2026-11-02",
- "solar": "2026-11-02",
- "lunar": "24/09",
- "weekday": "Thứ Hai",
- "color": "Tm",
- "title": "CẦU CHO CÁC TÍN HỮU ĐÃ QUA ĐỜI",
- "content": "Linh mục được cử hành 3 thánh lễ.",
- "readings": ["Chọn trong Sách Bài Đọc cầu hồn"],
- "season": "Thường Niên"
- },
- {
- "id": "2026-11-22",
- "solar": "2026-11-22",
- "lunar": "14/10",
- "weekday": "Chúa Nhật",
- "color": "Tr",
- "title": "ĐỨC GIÊSU KITÔ VUA VŨ TRỤ",
- "content": "Lễ trọng. Xứ Hiếu Thuận và xứ Quảng Phúc chầu Mình Thánh.",
- "readings": ["Ed 34,11-12.15-17", "1 Cr 15,20-26.28", "Mt 25,31-46"],
- "season": "Thường Niên",
- "rank": "Lễ trọng"
- }
- ]
+  "metadata": {
+    "diocese": "Phát Diệm",
+    "diocese_code": "phat_diem",
+    "liturgical_year": "2025-2026",
+    "cycle": "A",
+    "weekday_cycle": "II",
+    "zodiac": "Ất Tỵ - Bính Ngọ",
+    "publisher": "Tòa Giám mục Phát Diệm",
+    "source": "NHỮNG NGÀY LỄ CÔNG GIÁO NĂM A 2025-2026",
+    "version": "1.0.0",
+    "updated": "2026-08-02",
+    "note": "Cập nhật đầy đủ từ file lich.pdf (tháng 9–11/2026). Không tạo 
+file theo năm."
+  },
+  "days": [
+    {
+      "id": "2026-08-01",
+      "solar": "2026-08-01",
+      "lunar": "19/6",
+      "weekday": "Thứ Bảy",
+      "color": "Tr",
+      "title": "Thứ Bảy đầu tháng, ngày đền tạ Trái Tim Đức Mẹ",
+      "content": "Thánh Alphongsô Maria Ligôri, giám mục, tiến sĩ Hội 
+Thánh. Lễ nhớ. Thánh Biển Đức Vũ Văn Duệ, linh mục; thánh Đaminh Nguyễn 
+Văn Hạnh, linh mục, tử đạo.",
+      "readings": ["Gr 26,11-16.24", "Mt 14,1-12"],
+      "season": "Thường Niên",
+      "rank": "Lễ nhớ"
+    },
+    {
+      "id": "2026-08-02",
+      "solar": "2026-08-02",
+      "lunar": "20/6",
+      "weekday": "Chúa Nhật",
+      "color": "X",
+      "title": "CHÚA NHẬT XVIII THƯỜNG NIÊN",
+      "content": "Thánh vịnh tuần II. Xứ Sào Lâm, xứ Khiết Kỷ và xứ Kim 
+Hải chầu Mình Thánh. (Không cử hành lễ thánh Êusêbiô Vercellêsi và thánh 
+Phêrô Giulianô Êma, linh mục).",
+      "readings": ["Is 55,1-3", "Rm 8,35.37-39", "Mt 14,13-21"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-08-03",
+      "solar": "2026-08-03",
+      "lunar": "21/6",
+      "weekday": "Thứ Hai",
+      "color": "X",
+      "title": "Thứ Hai",
+      "content": "",
+      "readings": ["Gr 28,1-17", "Mt 14,22-36"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-08-04",
+      "solar": "2026-08-04",
+      "lunar": "22/6",
+      "weekday": "Thứ Ba",
+      "color": "Tr",
+      "title": "Thánh Gioan Maria Vianê, linh mục, bổn mạng các linh mục",
+      "content": "Lễ nhớ. Truyền chức linh mục.",
+      "readings": ["Gr 30,1-2.12-15.18-22", "Mt 15,1-2.10-14"],
+      "season": "Thường Niên",
+      "rank": "Lễ nhớ"
+    },
+    {
+      "id": "2026-08-05",
+      "solar": "2026-08-05",
+      "lunar": "23/6",
+      "weekday": "Thứ Tư",
+      "color": "X",
+      "title": "Thứ Tư đầu tháng. Cung hiến thánh đường Đức Maria",
+      "content": "(Tr). Có thể dùng lễ về Đức Mẹ.",
+      "readings": ["Gr 31,1-7", "Mt 15,21-28 (hay Kh 21,1-5a; Lc 
+11,27-28)"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-08-06",
+      "solar": "2026-08-06",
+      "lunar": "24/6",
+      "weekday": "Thứ Năm",
+      "color": "Tr",
+      "title": "CHÚA HIỂN DUNG",
+      "content": "Lễ kính. Giỗ cha Gioan Trần Văn Giám (+1977).",
+      "readings": ["Đn 7,9-10.13-14 (hay 2 Pr 1,16-19)", "Mt 17,1-9"],
+      "season": "Thường Niên",
+      "rank": "Lễ kính"
+    },
+    {
+      "id": "2026-08-07",
+      "solar": "2026-08-07",
+      "lunar": "25/6",
+      "weekday": "Thứ Sáu",
+      "color": "X",
+      "title": "Thứ Sáu đầu tháng, ngày đền tạ Trái Tim Đức Chúa Giêsu",
+      "content": "Thánh Xíttô II, giáo hoàng và các bạn tử đạo (Đ). Thánh 
+Cajêtanô, linh mục (Tr). (Lập thu).",
+      "readings": ["Nk 2,1-3; 3,1-3.6-7", "Mt 16,24-28"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-08-08",
+      "solar": "2026-08-08",
+      "lunar": "26/6",
+      "weekday": "Thứ Bảy",
+      "color": "Tr",
+      "title": "Thánh Đa Minh, linh mục",
+      "content": "Lễ nhớ.",
+      "readings": ["Kb 1,12 – 2,4", "Mt 17,14-20"],
+      "season": "Thường Niên",
+      "rank": "Lễ nhớ"
+    },
+    {
+      "id": "2026-08-09",
+      "solar": "2026-08-09",
+      "lunar": "27/6",
+      "weekday": "Chúa Nhật",
+      "color": "X",
+      "title": "CHÚA NHẬT XIX THƯỜNG NIÊN",
+      "content": "Thánh vịnh tuần III. Cầu cho việc học và dạy giáo lý. Xứ 
+Áng Sơn và họ Tổng Thị (thuộc xứ Dưỡng Điềm) chầu Mình Thánh. (Không cử 
+hành lễ thánh Têrêsa Bênêđícta Thánh Giá, nữ tu, tử đạo).",
+      "readings": ["1 V 19,9a.11-13a", "Rm 9,1-5", "Mt 14,22-33"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-08-10",
+      "solar": "2026-08-10",
+      "lunar": "28/6",
+      "weekday": "Thứ Hai",
+      "color": "Đ",
+      "title": "THÁNH LAURENSÔ, PHÓ TẾ, TỬ ĐẠO",
+      "content": "Lễ kính.",
+      "readings": ["2 Cr 9,6-10", "Ga 12,24-26"],
+      "season": "Thường Niên",
+      "rank": "Lễ kính"
+    },
+    {
+      "id": "2026-08-11",
+      "solar": "2026-08-11",
+      "lunar": "29/6",
+      "weekday": "Thứ Ba",
+      "color": "Tr",
+      "title": "Thánh Clara, trinh nữ",
+      "content": "Lễ nhớ.",
+      "readings": ["Ed 2,8 – 3,4", "Mt 18,1-5.10.12-14"],
+      "season": "Thường Niên",
+      "rank": "Lễ nhớ"
+    },
+    {
+      "id": "2026-08-12",
+      "solar": "2026-08-12",
+      "lunar": "30/6",
+      "weekday": "Thứ Tư",
+      "color": "X",
+      "title": "Thứ Tư",
+      "content": "Thánh Joanna Phanxica Chantal, nữ tu (Tr). Thánh Giacôbê 
+Đỗ Mai Năm, linh mục; thánh Antôn Nguyễn Đích, trùm họ; thánh Micae Nguyễn 
+Huy Mỹ, giáo dân, tử đạo. Giỗ Đức ông Phaolô Tịnh Nguyễn Quang Thiều 
+(+2000).",
+      "readings": ["Ed 9,1-7; 10,18-22", "Mt 18,15-20"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-08-13",
+      "solar": "2026-08-13",
+      "lunar": "01/7",
+      "weekday": "Thứ Năm",
+      "color": "X",
+      "title": "Thứ Năm",
+      "content": "Thánh Pontianô, giáo hoàng, tử đạo, và thánh Hippôlytô, 
+linh mục, tử đạo (Đ).",
+      "readings": ["Ed 12,1-12", "Mt 18,21 – 19,1"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-08-14",
+      "solar": "2026-08-14",
+      "lunar": "02/7",
+      "weekday": "Thứ Sáu",
+      "color": "Đ",
+      "title": "Thánh Maximilianô Maria Kolbê, linh mục, tử đạo",
+      "content": "Lễ nhớ. * Chiều: LỄ VỌNG ĐỨC MẸ LÊN TRỜI (Tr).",
+      "readings": {
+        "ngay": ["Ed 16,1-15.60-63", "Mt 19,3-12"],
+        "vong": ["1 Sb 15,3-4.15-16; 16,1-2", "1 Cr 15,54b-57", "Lc 
+11,27-28"]
+      },
+      "season": "Thường Niên",
+      "rank": "Lễ nhớ"
+    },
+    {
+      "id": "2026-08-15",
+      "solar": "2026-08-15",
+      "lunar": "03/7",
+      "weekday": "Thứ Bảy",
+      "color": "Tr",
+      "title": "ĐỨC MẸ LÊN TRỜI",
+      "content": "Lễ trọng. Đọc Kinh dâng mình cho Đức Mẹ. Cha xứ dâng lễ 
+cầu cho giáo dân. Được lãnh Ơn Toàn Xá tại các giáo xứ.",
+      "readings": ["Kh 11,19a; 12,1-6a.10b", "1 Cr 15,20-27", "Lc 
+1,39-56"],
+      "season": "Thường Niên",
+      "rank": "Lễ trọng",
+      "is_obligation": true
+    },
+    {
+      "id": "2026-08-16",
+      "solar": "2026-08-16",
+      "lunar": "04/7",
+      "weekday": "Chúa Nhật",
+      "color": "X",
+      "title": "CHÚA NHẬT XX THƯỜNG NIÊN",
+      "content": "Thánh vịnh tuần IV. Xứ Đồng Chưa, xứ Kim Đông và họ 
+Thành Đức (thuộc xứ Cách Tâm) chầu Mình Thánh. (Không cử hành lễ thánh 
+Stêphanô, vua nước Hungari).",
+      "readings": ["Is 56,1.6-7", "Rm 11,13-15.29-32", "Mt 15,21-28"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-08-17",
+      "solar": "2026-08-17",
+      "lunar": "05/7",
+      "weekday": "Thứ Hai",
+      "color": "X",
+      "title": "Thứ Hai",
+      "content": "",
+      "readings": ["Ed 24,15-24", "Mt 19,16-22"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-08-18",
+      "solar": "2026-08-18",
+      "lunar": "06/7",
+      "weekday": "Thứ Ba",
+      "color": "X",
+      "title": "Thứ Ba",
+      "content": "",
+      "readings": ["Ed 28,1-10", "Mt 19,23-30"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-08-19",
+      "solar": "2026-08-19",
+      "lunar": "07/7",
+      "weekday": "Thứ Tư",
+      "color": "X",
+      "title": "Thứ Tư",
+      "content": "Thánh Gioan Êuđê, linh mục (Tr).",
+      "readings": ["Ed 34,1-11", "Mt 20,1-16a"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-08-20",
+      "solar": "2026-08-20",
+      "lunar": "08/7",
+      "weekday": "Thứ Năm",
+      "color": "Tr",
+      "title": "Thánh Bênađô, viện phụ, tiến sĩ Hội Thánh",
+      "content": "Lễ nhớ.",
+      "readings": ["Ed 36,23-28", "Mt 22,1-14"],
+      "season": "Thường Niên",
+      "rank": "Lễ nhớ"
+    },
+    {
+      "id": "2026-08-21",
+      "solar": "2026-08-21",
+      "lunar": "09/7",
+      "weekday": "Thứ Sáu",
+      "color": "Tr",
+      "title": "Thánh Piô X, giáo hoàng",
+      "content": "Lễ nhớ. Thánh Giuse Đặng Đình Viên, linh mục, tử đạo.",
+      "readings": ["Ed 37,1-14", "Mt 22,34-40"],
+      "season": "Thường Niên",
+      "rank": "Lễ nhớ"
+    },
+    {
+      "id": "2026-08-22",
+      "solar": "2026-08-22",
+      "lunar": "10/7",
+      "weekday": "Thứ Bảy",
+      "color": "Tr",
+      "title": "Đức Maria Nữ Vương",
+      "content": "Lễ nhớ. Giỗ cha Phaolô Dương Đức Liêm (+1960).",
+      "readings": ["Is 9,1-6", "Lc 1,26-38"],
+      "season": "Thường Niên",
+      "rank": "Lễ nhớ"
+    },
+    {
+      "id": "2026-08-23",
+      "solar": "2026-08-23",
+      "lunar": "11/7",
+      "weekday": "Chúa Nhật",
+      "color": "X",
+      "title": "CHÚA NHẬT XXI THƯỜNG NIÊN",
+      "content": "Thánh vịnh tuần I. Xứ Yên Liêu chầu Mình Thánh. (Không 
+cử hành lễ thánh Rôsa Lima, trinh nữ).",
+      "readings": ["Is 22,19-23", "Rm 11,33-36", "Mt 16,13-20"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-08-24",
+      "solar": "2026-08-24",
+      "lunar": "12/7",
+      "weekday": "Thứ Hai",
+      "color": "Đ",
+      "title": "THÁNH BATÔLÔMÊÔ, TÔNG ĐỒ",
+      "content": "Lễ kính.",
+      "readings": ["Kh 21,9b-14", "Ga 1,45-51"],
+      "season": "Thường Niên",
+      "rank": "Lễ kính"
+    },
+    {
+      "id": "2026-08-25",
+      "solar": "2026-08-25",
+      "lunar": "13/7",
+      "weekday": "Thứ Ba",
+      "color": "X",
+      "title": "Thứ Ba",
+      "content": "Thánh Luy, vua nước Pháp (Tr). Thánh Giuse Calasanz, 
+linh mục (Tr).",
+      "readings": ["2 Tx 2,1-3a.14-17", "Mt 23,23-26"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-08-26",
+      "solar": "2026-08-26",
+      "lunar": "14/7",
+      "weekday": "Thứ Tư",
+      "color": "X",
+      "title": "Thứ Tư",
+      "content": "Giỗ cha Luca Mai Học Lý (+1968).",
+      "readings": ["2 Tx 3,6-10.16-18", "Mt 23,27-32"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-08-27",
+      "solar": "2026-08-27",
+      "lunar": "15/7",
+      "weekday": "Thứ Năm",
+      "color": "Tr",
+      "title": "Thánh nữ Mônica",
+      "content": "Lễ nhớ, quan thày giới hiền mẫu.",
+      "readings": ["1 Cr 1,1-9", "Mt 24,42-51"],
+      "season": "Thường Niên",
+      "rank": "Lễ nhớ"
+    },
+    {
+      "id": "2026-08-28",
+      "solar": "2026-08-28",
+      "lunar": "16/7",
+      "weekday": "Thứ Sáu",
+      "color": "Tr",
+      "title": "Thánh Augustinô, giám mục, tiến sĩ Hội Thánh",
+      "content": "Lễ nhớ.",
+      "readings": ["1 Cr 1,17-25", "Mt 25,1-13"],
+      "season": "Thường Niên",
+      "rank": "Lễ nhớ"
+    },
+    {
+      "id": "2026-08-29",
+      "solar": "2026-08-29",
+      "lunar": "17/7",
+      "weekday": "Thứ Bảy",
+      "color": "Đ",
+      "title": "Thánh Gioan Tẩy Giả bị trảm quyết",
+      "content": "Lễ nhớ.",
+      "readings": ["Gr 1,17-19", "Mc 6,17-29"],
+      "season": "Thường Niên",
+      "rank": "Lễ nhớ"
+    },
+    {
+      "id": "2026-08-30",
+      "solar": "2026-08-30",
+      "lunar": "18/7",
+      "weekday": "Chúa Nhật",
+      "color": "X",
+      "title": "CHÚA NHẬT XXII THƯỜNG NIÊN",
+      "content": "Thánh vịnh tuần II. Xứ Uy Đức chầu Mình Thánh. Giỗ cha 
+Antôn Nguyễn Đan Quế (+1974) và cha Antôn Nguyễn Tâm Tư (+2022). Đóng góp 
+quỹ Đồng Tiền Thánh Phêrô của Tòa Thánh.",
+      "readings": ["Gr 20,7-9", "Rm 12,1-2", "Mt 16,21-27"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-08-31",
+      "solar": "2026-08-31",
+      "lunar": "19/7",
+      "weekday": "Thứ Hai",
+      "color": "X",
+      "title": "Thứ Hai",
+      "content": "",
+      "readings": ["1 Cr 2,1-5", "Lc 4,16-30"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-09-01",
+      "solar": "2026-09-01",
+      "lunar": "20/7",
+      "weekday": "Thứ Ba",
+      "color": "X",
+      "title": "Thứ Ba",
+      "content": "",
+      "readings": ["1 Cr 2,10-16", "Lc 4,31-37"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-09-02",
+      "solar": "2026-09-02",
+      "lunar": "21/7",
+      "weekday": "Thứ Tư",
+      "color": "X",
+      "title": "Thứ Tư đầu tháng. Ngày Quốc Khánh",
+      "content": "Cầu cho Tổ quốc Việt Nam thái bình, thịnh vượng.",
+      "readings": ["1 Cr 3,1-9", "Lc 4,38-44"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-09-03",
+      "solar": "2026-09-03",
+      "lunar": "22/7",
+      "weekday": "Thứ Năm",
+      "color": "Tr",
+      "title": "THÁNH GRÊGÔRIÔ CẢ, GIÁO HOÀNG, TIẾN SĨ HỘI THÁNH",
+      "content": "Lễ nhớ. Thứ Năm đầu tháng.",
+      "readings": ["1 Cr 3,18-23", "Lc 5,1-11"],
+      "season": "Thường Niên",
+      "rank": "Lễ nhớ"
+    },
+    {
+      "id": "2026-09-04",
+      "solar": "2026-09-04",
+      "lunar": "23/7",
+      "weekday": "Thứ Sáu",
+      "color": "X",
+      "title": "Thứ Sáu đầu tháng, ngày đền tạ Trái Tim Đức Chúa Giêsu",
+      "content": "",
+      "readings": ["1 Cr 4,1-5", "Lc 5,33-39"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-09-05",
+      "solar": "2026-09-05",
+      "lunar": "24/7",
+      "weekday": "Thứ Bảy",
+      "color": "X",
+      "title": "Thứ Bảy đầu tháng, ngày đền tạ Trái Tim Đức Mẹ",
+      "content": "Thánh Têrêsa Calcutta, nữ tu (tr). Thánh Phêrô Nguyễn 
+Văn Tự, linh mục; thánh Giuse Hoàng Lương Cảnh, trùm họ, tử đạo.",
+      "readings": ["1 Cr 4,6-15", "Lc 6,1-5"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-09-06",
+      "solar": "2026-09-06",
+      "lunar": "25/7",
+      "weekday": "Chúa Nhật",
+      "color": "X",
+      "title": "CHÚA NHẬT XXIII THƯỜNG NIÊN",
+      "content": "Thánh vịnh tuần III. Xứ Phúc Nhạc và họ Năng An (thuộc 
+xứ Như Sơn) chầu Mình Thánh.",
+      "readings": ["Ed 33,7-9", "Rm 13,8-10", "Mt 18,15-20"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-09-07",
+      "solar": "2026-09-07",
+      "lunar": "26/7",
+      "weekday": "Thứ Hai",
+      "color": "X",
+      "title": "Thứ Hai",
+      "content": "(Bạch lộ).",
+      "readings": ["1 Cr 5,1-8", "Lc 6,6-11"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-09-08",
+      "solar": "2026-09-08",
+      "lunar": "27/7",
+      "weekday": "Thứ Ba",
+      "color": "Tr",
+      "title": "SINH NHẬT ĐỨC TRINH NỮ MARIA",
+      "content": "Lễ kính. Kỷ niệm ngày Đức Tổng Giuse Nguyễn Năng thụ 
+phong Giám Mục (2009). Giỗ cha Phanxicô Xaviê Minh (+1966).",
+      "readings": ["Mk 5,1-4a (hay Rm 8,28-30)", "Mt 1,1-16.18-23 (hay Mt 
+1,18-23)"],
+      "season": "Thường Niên",
+      "rank": "Lễ kính"
+    },
+    {
+      "id": "2026-09-09",
+      "solar": "2026-09-09",
+      "lunar": "28/7",
+      "weekday": "Thứ Tư",
+      "color": "X",
+      "title": "Thứ Tư",
+      "content": "Thánh Phêrô Claver, linh mục (Tr).",
+      "readings": ["1 Cr 7,25-31", "Lc 6,20-26"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-09-10",
+      "solar": "2026-09-10",
+      "lunar": "29/7",
+      "weekday": "Thứ Năm",
+      "color": "X",
+      "title": "Thứ Năm",
+      "content": "",
+      "readings": ["1 Cr 8,1b-7.11-13", "Lc 6,27-38"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-09-11",
+      "solar": "2026-09-11",
+      "lunar": "01/8",
+      "weekday": "Thứ Sáu",
+      "color": "X",
+      "title": "Thứ Sáu",
+      "content": "",
+      "readings": ["1 Cr 9,16-19.22b-27", "Lc 6,39-42"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-09-12",
+      "solar": "2026-09-12",
+      "lunar": "02/8",
+      "weekday": "Thứ Bảy",
+      "color": "X",
+      "title": "Thứ Bảy. Danh Thánh Đức Maria",
+      "content": "(Tr). Có thể dùng lễ về Đức Mẹ.",
+      "readings": ["1 Cr 10,14-22", "Lc 6,43-49 (hay Gl 4,4-7 [hay Ep 
+1,3-6.11-12]; Lc 1,39-47)"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-09-13",
+      "solar": "2026-09-13",
+      "lunar": "03/8",
+      "weekday": "Chúa Nhật",
+      "color": "X",
+      "title": "CHÚA NHẬT XXIV THƯỜNG NIÊN",
+      "content": "Thánh vịnh tuần IV. Cầu cho việc học và dạy giáo lý. Xứ 
+Mưỡu Giáp và xứ Bạch Liên chầu Mình Thánh. (Không cử hành lễ thánh Gioan 
+Kim Khẩu).",
+      "readings": ["Hc 27,33–28,9", "Rm 14,7-9", "Mt 18,21-35"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-09-14",
+      "solar": "2026-09-14",
+      "lunar": "04/8",
+      "weekday": "Thứ Hai",
+      "color": "Đ",
+      "title": "SUY TÔN THÁNH GIÁ",
+      "content": "Lễ kính. Giỗ cha Phêrô Phạm Bá Luật (+1978).",
+      "readings": ["Ds 21,4b-9 (hay Pl 2,6-11)", "Ga 3,13-17"],
+      "season": "Thường Niên",
+      "rank": "Lễ kính"
+    },
+    {
+      "id": "2026-09-15",
+      "solar": "2026-09-15",
+      "lunar": "05/8",
+      "weekday": "Thứ Ba",
+      "color": "Tr",
+      "title": "Đức Mẹ Sầu Bi",
+      "content": "Lễ nhớ.",
+      "readings": ["Dt 5,7-9", "Ga 19,25-27 (hay Lc 2,33-35)"],
+      "season": "Thường Niên",
+      "rank": "Lễ nhớ"
+    },
+    {
+      "id": "2026-09-16",
+      "solar": "2026-09-16",
+      "lunar": "06/8",
+      "weekday": "Thứ Tư",
+      "color": "Đ",
+      "title": "Thánh Cornêliô, giáo hoàng, tử đạo, và thánh Síprianô, 
+giám mục, tử đạo",
+      "content": "Lễ nhớ. Giỗ cha Giuse Nguyễn Duy Trinh (+1973).",
+      "readings": ["1 Cr 12,31–13,13", "Lc 7,31-35"],
+      "season": "Thường Niên",
+      "rank": "Lễ nhớ"
+    },
+    {
+      "id": "2026-09-17",
+      "solar": "2026-09-17",
+      "lunar": "07/8",
+      "weekday": "Thứ Năm",
+      "color": "X",
+      "title": "Thứ Năm",
+      "content": "Thánh Robertô Bellarminô, giám mục, tiến sĩ Hội Thánh 
+(Tr). Thánh Hilđegarđiô Bingensiô, trinh nữ, tiến sĩ Hội Thánh (Tr). Thánh 
+Emmanuel Nguyễn Văn Triệu, linh mục, tử đạo.",
+      "readings": ["1 Cr 15,1-11", "Lc 7,36-50"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-09-18",
+      "solar": "2026-09-18",
+      "lunar": "08/8",
+      "weekday": "Thứ Sáu",
+      "color": "X",
+      "title": "Thứ Sáu",
+      "content": "Thánh Đaminh Vũ Đức Trạch, linh mục, tử đạo.",
+      "readings": ["1 Cr 15,12-20", "Lc 8,1-3"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-09-19",
+      "solar": "2026-09-19",
+      "lunar": "09/8",
+      "weekday": "Thứ Bảy",
+      "color": "X",
+      "title": "Thứ Bảy",
+      "content": "Thánh Januariô, giám mục, tử đạo (Đ).",
+      "readings": ["1 Cr 15,35-37.42-49", "Lc 8,4-15"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-09-20",
+      "solar": "2026-09-20",
+      "lunar": "10/8",
+      "weekday": "Chúa Nhật",
+      "color": "X",
+      "title": "CHÚA NHẬT XXV THƯỜNG NIÊN",
+      "content": "Thánh vịnh tuần I. Xứ Tân Mỹ và xứ Hào Phú chầu Mình 
+Thánh. Thánh Gioan Cót-nây Tân, linh mục, tử đạo. (Không cử hành lễ thánh 
+Anrê Kim Têgon…).",
+      "readings": ["Is 55,6-9", "Pl 1,20c-24.27a", "Mt 20,1-16a"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-09-21",
+      "solar": "2026-09-21",
+      "lunar": "11/8",
+      "weekday": "Thứ Hai",
+      "color": "Đ",
+      "title": "THÁNH MÁTTHÊÔ, TÔNG ĐỒ, TÁC GIẢ SÁCH TIN MỪNG",
+      "content": "Lễ kính. Thánh Phanxicô Gia-các Phan, linh mục; thánh 
+Tôma Trần Văn Thiện, chủng sinh, tử đạo.",
+      "readings": ["Ep 4,1-7.11-13", "Mt 9,9-13"],
+      "season": "Thường Niên",
+      "rank": "Lễ kính"
+    },
+    {
+      "id": "2026-09-22",
+      "solar": "2026-09-22",
+      "lunar": "12/8",
+      "weekday": "Thứ Ba",
+      "color": "X",
+      "title": "Thứ Ba",
+      "content": "",
+      "readings": ["Cn 21,1-6.10-13", "Lc 8,19-21"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-09-23",
+      "solar": "2026-09-23",
+      "lunar": "13/8",
+      "weekday": "Thứ Tư",
+      "color": "Tr",
+      "title": "Thánh Piô Năm Dấu Thánh, linh mục",
+      "content": "Lễ nhớ.",
+      "readings": ["Cn 30,5-9", "Lc 9,1-6"],
+      "season": "Thường Niên",
+      "rank": "Lễ nhớ"
+    },
+    {
+      "id": "2026-09-24",
+      "solar": "2026-09-24",
+      "lunar": "14/8",
+      "weekday": "Thứ Năm",
+      "color": "X",
+      "title": "Thứ Năm",
+      "content": "",
+      "readings": ["Gv 1,2-11", "Lc 9,7-9"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-09-25",
+      "solar": "2026-09-25",
+      "lunar": "15/8",
+      "weekday": "Thứ Sáu",
+      "color": "X",
+      "title": "Thứ Sáu. Ngày Trung Thu",
+      "content": "Cầu cho thiếu nhi. Có thể dùng lễ cầu cho thiếu nhi.",
+      "readings": ["Gv 3,1-11", "Lc 9,18-22 (hay Hc 42,15-16; 43,1-2.6-10; 
+Mc 10,13-16)"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-09-26",
+      "solar": "2026-09-26",
+      "lunar": "16/8",
+      "weekday": "Thứ Bảy",
+      "color": "X",
+      "title": "Thứ Bảy",
+      "content": "Thánh Cosma và thánh Đamianô, tử đạo (Đ).",
+      "readings": ["Gv 11,9–12,8", "Lc 9,43-45"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-09-27",
+      "solar": "2026-09-27",
+      "lunar": "17/8",
+      "weekday": "Chúa Nhật",
+      "color": "X",
+      "title": "CHÚA NHẬT XXVI THƯỜNG NIÊN",
+      "content": "Thánh vịnh tuần II. Xứ Nam Biên và xứ Tam Điệp chầu Mình 
+Thánh. (Không cử hành lễ thánh Vinhsơn Phaolô).",
+      "readings": ["Ed 18,25-28", "Pl 2,1-11 (hay Pl 2,1-5)", "Mt 
+21,28-32"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-09-28",
+      "solar": "2026-09-28",
+      "lunar": "18/8",
+      "weekday": "Thứ Hai",
+      "color": "X",
+      "title": "Thứ Hai",
+      "content": "Venceslao, tử đạo (Đ). Thánh Laurensô Ruiz và các bạn, 
+tử đạo (Đ).",
+      "readings": ["G 1,6-22", "Lc 9,46-50"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-09-29",
+      "solar": "2026-09-29",
+      "lunar": "19/8",
+      "weekday": "Thứ Ba",
+      "color": "Tr",
+      "title": "CÁC TỔNG LÃNH THIÊN THẦN MICHAEL, GABRIEL, RAPHAEL",
+      "content": "Lễ kính.",
+      "readings": ["Đn 7,9-10.13-14 (hay Kh 12,7-12a)", "Ga 1,47-51"],
+      "season": "Thường Niên",
+      "rank": "Lễ kính"
+    },
+    {
+      "id": "2026-09-30",
+      "solar": "2026-09-30",
+      "lunar": "20/8",
+      "weekday": "Thứ Tư",
+      "color": "Tr",
+      "title": "Thánh Giêrônimô, linh mục, tiến sĩ Hội Thánh",
+      "content": "Lễ nhớ.",
+      "readings": ["G 9,1-12.14-16", "Lc 9,57-62"],
+      "season": "Thường Niên",
+      "rank": "Lễ nhớ"
+    },
+    {
+      "id": "2026-10-01",
+      "solar": "2026-10-01",
+      "lunar": "21/8",
+      "weekday": "Thứ Năm",
+      "color": "Tr",
+      "title": "THÁNH TÊRÊSA HÀI ĐỒNG GIÊSU, TRINH NỮ, TIẾN SĨ HỘI THÁNH",
+      "content": "Bổn mạng các xứ truyền giáo. Lễ kính. Thứ Năm đầu 
+tháng.",
+      "readings": ["Is 66,10-14c (hay Rm 8,14-17)", "Mt 18,1-5"],
+      "season": "Thường Niên",
+      "rank": "Lễ kính"
+    },
+    {
+      "id": "2026-10-02",
+      "solar": "2026-10-02",
+      "lunar": "22/8",
+      "weekday": "Thứ Sáu",
+      "color": "Tr",
+      "title": "Thứ Sáu đầu tháng, ngày đền tạ Trái Tim Đức Chúa Giêsu. 
+Các Thiên Thần Hộ Thủ",
+      "content": "Lễ nhớ.",
+      "readings": ["Xh 23,20-23", "Mt 18,1-5.10"],
+      "season": "Thường Niên",
+      "rank": "Lễ nhớ"
+    },
+    {
+      "id": "2026-10-03",
+      "solar": "2026-10-03",
+      "lunar": "23/8",
+      "weekday": "Thứ Bảy",
+      "color": "X",
+      "title": "Thứ Bảy đầu tháng, ngày đền tạ Trái Tim Đức Mẹ",
+      "content": "",
+      "readings": ["G 42,1-3.5-6.12-16", "Lc 10,17-24"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-10-04",
+      "solar": "2026-10-04",
+      "lunar": "24/8",
+      "weekday": "Chúa Nhật",
+      "color": "X",
+      "title": "CHÚA NHẬT XXVII THƯỜNG NIÊN",
+      "content": "Thánh vịnh tuần III. Xứ Yên Thổ, xứ Thiện Mỹ và họ Duy 
+Hòa (thuộc xứ Khiết Kỷ) chầu Mình Thánh. Được kính trọng thể lễ Đức Mẹ Mân 
+Côi. Được lãnh Ơn Toàn Xá tại các giáo xứ. (Không cử hành lễ thánh 
+Phanxicô Assisi).",
+      "readings": ["Is 5,1-7", "Pl 4,6-9", "Mt 21,33-43"],
+      "notes": "Có thể dùng Cv 1,12-14; Gl 4,4-7; Lc 1,26-38",
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-10-05",
+      "solar": "2026-10-05",
+      "lunar": "25/8",
+      "weekday": "Thứ Hai",
+      "color": "X",
+      "title": "Thứ Hai",
+      "content": "Thánh Maria Faustina Kôwalska, trinh nữ (Tr).",
+      "readings": ["Gl 1,6-12", "Lc 10,25-37"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-10-06",
+      "solar": "2026-10-06",
+      "lunar": "26/8",
+      "weekday": "Thứ Ba",
+      "color": "Tr",
+      "title": "Kỷ niệm CUNG HIẾN NHÀ THỜ CHÍNH TÒA PHÁT DIỆM",
+      "content": "Mừng lễ trọng tại nhà thờ Phát Diệm, lễ kính tại nhà thờ 
+các giáo xứ. (Các bài đọc lấy ở phần chung lễ cung hiến). Thánh Brunô, 
+linh mục; Thánh Phanxicô Trần Văn Trung, giáo dân, tử đạo.",
+      "readings": ["Gl 1,13-24", "Lc 10,38-42"],
+      "season": "Thường Niên",
+      "rank": "Lễ trọng (tại nhà thờ chính tòa) / Lễ kính (các xứ)"
+    },
+    {
+      "id": "2026-10-07",
+      "solar": "2026-10-07",
+      "lunar": "27/8",
+      "weekday": "Thứ Tư",
+      "color": "Tr",
+      "title": "Đức Mẹ Mân Côi",
+      "content": "Lễ nhớ. TƯỚC HIỆU NHÀ THỜ CHÍNH TÒA PHÁT DIỆM. Được 
+viếng nhà thờ để lĩnh ơn Toàn xá với điều kiện thường lệ.",
+      "readings": ["Cv 1,12-14 (hay Gl 4,4-7)", "Lc 1,26-38"],
+      "season": "Thường Niên",
+      "rank": "Lễ nhớ"
+    },
+    {
+      "id": "2026-10-08",
+      "solar": "2026-10-08",
+      "lunar": "28/8",
+      "weekday": "Thứ Năm",
+      "color": "X",
+      "title": "Thứ Năm",
+      "content": "(Hàn lộ).",
+      "readings": ["Gl 3,1-5", "Lc 11,5-13"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-10-09",
+      "solar": "2026-10-09",
+      "lunar": "29/8",
+      "weekday": "Thứ Sáu",
+      "color": "X",
+      "title": "Thứ Sáu",
+      "content": "Thánh Điônysiô, giám mục, và các bạn, tử đạo (Đ). Thánh 
+Gioan Lêônarđô, linh mục (Tr).",
+      "readings": ["Gl 3,7-14", "Lc 11,15-26"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-10-10",
+      "solar": "2026-10-10",
+      "lunar": "01/9",
+      "weekday": "Thứ Bảy",
+      "color": "X",
+      "title": "Thứ Bảy",
+      "content": "",
+      "readings": ["Gl 3,22-29", "Lc 11,27-28"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-10-11",
+      "solar": "2026-10-11",
+      "lunar": "02/9",
+      "weekday": "Chúa Nhật",
+      "color": "X",
+      "title": "CHÚA NHẬT XXVIII THƯỜNG NIÊN",
+      "content": "Thánh vịnh tuần IV. Cầu cho việc học và dạy giáo lý. Xứ 
+Khoan Dụ, xứ Phùng Thiện và họ Tuy Lai (thuộc xứ Hoài Lai) chầu Mình 
+Thánh. Thánh Phêrô Lê Tùy, linh mục, tử đạo. (Không cử hành lễ thánh Gioan 
+XXIII).",
+      "readings": ["Is 25,6-10a", "Pl 4,12-14.19-20", "Mt 22,1-14 (hay Mt 
+22,1-10)"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-10-12",
+      "solar": "2026-10-12",
+      "lunar": "03/9",
+      "weekday": "Thứ Hai",
+      "color": "X",
+      "title": "Thứ Hai",
+      "content": "",
+      "readings": ["Gl 4,22-24.26-27.32–5,1", "Lc 11,29-32"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-10-13",
+      "solar": "2026-10-13",
+      "lunar": "04/9",
+      "weekday": "Thứ Ba",
+      "color": "X",
+      "title": "Thứ Ba",
+      "content": "Giỗ cha Phanxicô X. Nguyễn Hữu Tường (+2001).",
+      "readings": ["Gl 5,1-6", "Lc 11,37-41"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-10-14",
+      "solar": "2026-10-14",
+      "lunar": "05/9",
+      "weekday": "Thứ Tư",
+      "color": "X",
+      "title": "Thứ Tư",
+      "content": "Thánh Callistô I, giáo hoàng, tử đạo (Đ).",
+      "readings": ["Gl 5,18-25", "Lc 11,42-46"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-10-15",
+      "solar": "2026-10-15",
+      "lunar": "06/9",
+      "weekday": "Thứ Năm",
+      "color": "Tr",
+      "title": "Thánh Têrêsa Avila, trinh nữ, tiến sĩ Hội Thánh",
+      "content": "Lễ nhớ.",
+      "readings": ["Ep 1,1-10", "Lc 11,47-54"],
+      "season": "Thường Niên",
+      "rank": "Lễ nhớ"
+    },
+    {
+      "id": "2026-10-16",
+      "solar": "2026-10-16",
+      "lunar": "07/9",
+      "weekday": "Thứ Sáu",
+      "color": "X",
+      "title": "Thứ Sáu",
+      "content": "Thánh Hedviges, nữ tu (Tr). Thánh Margarita Alacoque, 
+trinh nữ (Tr).",
+      "readings": ["Ep 1,11-14", "Lc 12,1-7"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-10-17",
+      "solar": "2026-10-17",
+      "lunar": "08/9",
+      "weekday": "Thứ Bảy",
+      "color": "Đ",
+      "title": "Thánh Inhaxiô Antiôkhia, giám mục, tử đạo",
+      "content": "Lễ nhớ. Thánh Phanxicô Isiđôrô Kính, linh mục, tử đạo.",
+      "readings": ["Ep 1,15-23", "Lc 12,8-12"],
+      "season": "Thường Niên",
+      "rank": "Lễ nhớ"
+    },
+    {
+      "id": "2026-10-18",
+      "solar": "2026-10-18",
+      "lunar": "09/9",
+      "weekday": "Chúa Nhật",
+      "color": "X",
+      "title": "CHÚA NHẬT XXIX THƯỜNG NIÊN",
+      "content": "Thánh vịnh tuần I. Xứ Lãng Vân, xứ Hợp Thành, xứ Cổ Loan 
+và họ An Lạc chầu Mình Thánh. Chúa nhật Truyền Giáo (Tr). Được cử hành 
+thánh lễ cầu cho việc rao giảng Tin Mừng cho các dân tộc. (Không cử hành 
+lễ thánh Luca).",
+      "readings": ["Is 45,1.4-6", "1 Tx 1,1-5b", "Mt 22,15-21"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-10-19",
+      "solar": "2026-10-19",
+      "lunar": "10/9",
+      "weekday": "Thứ Hai",
+      "color": "X",
+      "title": "Thứ Hai",
+      "content": "Thánh Gioan Brêbeuf, linh mục; thánh Isaac Jôgues, linh 
+mục và các bạn, tử đạo (Đ). Thánh Phaolô Thánh Giá, linh mục (Tr).",
+      "readings": ["Ep 2,1-10", "Lc 12,13-21"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-10-20",
+      "solar": "2026-10-20",
+      "lunar": "11/9",
+      "weekday": "Thứ Ba",
+      "color": "X",
+      "title": "Thứ Ba",
+      "content": "",
+      "readings": ["Ep 2,12-22", "Lc 12,35-38"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-10-21",
+      "solar": "2026-10-21",
+      "lunar": "12/9",
+      "weekday": "Thứ Tư",
+      "color": "X",
+      "title": "Thứ Tư",
+      "content": "",
+      "readings": ["Ep 3,2-12", "Lc 12,39-48"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-10-22",
+      "solar": "2026-10-22",
+      "lunar": "13/9",
+      "weekday": "Thứ Năm",
+      "color": "X",
+      "title": "Thứ Năm",
+      "content": "Thánh Gioan Phaolô II, Giáo hoàng (Tr).",
+      "readings": ["Ep 3,14-21", "Lc 12,49-53 (hay Is 52,7-10; Ga 
+21,15-17)"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-10-23",
+      "solar": "2026-10-23",
+      "lunar": "14/9",
+      "weekday": "Thứ Sáu",
+      "color": "X",
+      "title": "Thứ Sáu",
+      "content": "Thánh Gioan Capestranô, linh mục (Tr). Thánh Phaolô Tống 
+Viết Bường, giáo dân, tử đạo.",
+      "readings": ["Ep 4,1-6", "Lc 12,54-59"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-10-24",
+      "solar": "2026-10-24",
+      "lunar": "15/9",
+      "weekday": "Thứ Bảy",
+      "color": "X",
+      "title": "Thứ Bảy",
+      "content": "Thánh Antôn Maria Claret, giám mục (Tr). Thánh Giuse Lê 
+Đăng Thị, giáo dân, tử đạo.",
+      "readings": ["Ep 4,7-16", "Lc 13,1-9"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-10-25",
+      "solar": "2026-10-25",
+      "lunar": "16/9",
+      "weekday": "Chúa Nhật",
+      "color": "X",
+      "title": "CHÚA NHẬT XXX THƯỜNG NIÊN",
+      "content": "Thánh vịnh tuần II. Xứ Tùng Thiện, xứ Trì Chính và họ 
+Bình Sơn (thuộc xứ Yên Thổ) chầu Mình Thánh.",
+      "readings": ["Xh 22,20-26", "1 Tx 1,5c-10", "Mt 22,34-40"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-10-26",
+      "solar": "2026-10-26",
+      "lunar": "17/9",
+      "weekday": "Thứ Hai",
+      "color": "X",
+      "title": "Thứ Hai",
+      "content": "Tuần tĩnh tâm thường niên của Linh mục đoàn Phát Diệm.",
+      "readings": ["Ep 4,32–5,8", "Lc 13,10-17"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-10-27",
+      "solar": "2026-10-27",
+      "lunar": "18/9",
+      "weekday": "Thứ Ba",
+      "color": "X",
+      "title": "Thứ Ba",
+      "content": "",
+      "readings": ["Ep 5,21-33", "Lc 13,18-21"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-10-28",
+      "solar": "2026-10-28",
+      "lunar": "19/9",
+      "weekday": "Thứ Tư",
+      "color": "Đ",
+      "title": "THÁNH SIMON VÀ THÁNH GIUĐA, TÔNG ĐỒ",
+      "content": "Lễ kính. Thánh Gioan Đoàn Viết Đạt, linh mục, tử đạo.",
+      "readings": ["Ep 2,19-22", "Lc 6,12-19"],
+      "season": "Thường Niên",
+      "rank": "Lễ kính"
+    },
+    {
+      "id": "2026-10-29",
+      "solar": "2026-10-29",
+      "lunar": "20/9",
+      "weekday": "Thứ Năm",
+      "color": "X",
+      "title": "Thứ Năm",
+      "content": "",
+      "readings": ["Ep 6,10-20", "Lc 13,31-35"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-10-30",
+      "solar": "2026-10-30",
+      "lunar": "21/9",
+      "weekday": "Thứ Sáu",
+      "color": "X",
+      "title": "Thứ Sáu",
+      "content": "",
+      "readings": ["Pl 1,1-11", "Lc 14,1-6"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-10-31",
+      "solar": "2026-10-31",
+      "lunar": "22/9",
+      "weekday": "Thứ Bảy",
+      "color": "X",
+      "title": "Thứ Bảy",
+      "content": "",
+      "readings": ["Pl 1,18-26", "Lc 14,1.7-11"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-11-01",
+      "solar": "2026-11-01",
+      "lunar": "23/9",
+      "weekday": "Chúa Nhật",
+      "color": "Tr",
+      "title": "CÁC THÁNH NAM NỮ",
+      "content": "Lễ trọng. Cha xứ dâng lễ cầu cho giáo dân. Xứ Bình Hòa 
+và xứ Ngọc Cao chầu Mình Thánh. Thánh Giêrônimô Liêm, giám mục; thánh 
+Valentinô Vinh, giám mục; thánh Phêrô Bình, linh mục, tử đạo.",
+      "readings": ["Kh 7,2-4.9-14", "1 Ga 3,1-3", "Mt 5,1-12a"],
+      "season": "Thường Niên",
+      "rank": "Lễ trọng",
+      "is_obligation": true
+    },
+    {
+      "id": "2026-11-02",
+      "solar": "2026-11-02",
+      "lunar": "24/9",
+      "weekday": "Thứ Hai",
+      "color": "Tm",
+      "title": "CẦU CHO CÁC TÍN HỮU ĐÃ QUA ĐỜI",
+      "content": "Thánh vịnh tuần III. Linh mục được cử hành 3 thánh lễ.",
+      "readings": ["Chọn trong Sách Bài Đọc cầu hồn"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-11-03",
+      "solar": "2026-11-03",
+      "lunar": "25/9",
+      "weekday": "Thứ Ba",
+      "color": "X",
+      "title": "Thứ Ba",
+      "content": "Cầu cho các đấng các bậc (Tm). Thánh Martinô Porres, tu 
+sĩ. Thánh Phanxicô Bắc, linh mục, tử đạo.",
+      "readings": ["Pl 2,5-11", "Lc 14,15-24"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-11-04",
+      "solar": "2026-11-04",
+      "lunar": "26/9",
+      "weekday": "Thứ Tư",
+      "color": "Tr",
+      "title": "Thánh Carôlô Borômêô, giám mục",
+      "content": "Lễ nhớ. Thứ Tư đầu tháng. Cầu cho các Ân nhân giáo 
+phận.",
+      "readings": ["Pl 2,12-18", "Lc 14,25-33"],
+      "season": "Thường Niên",
+      "rank": "Lễ nhớ"
+    },
+    {
+      "id": "2026-11-05",
+      "solar": "2026-11-05",
+      "lunar": "27/9",
+      "weekday": "Thứ Năm",
+      "color": "X",
+      "title": "Thứ Năm đầu tháng",
+      "content": "Thánh Đaminh Đinh Đức Mậu, linh mục, tử đạo.",
+      "readings": ["Pl 3,3-8", "Lc 15,1-10"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-11-06",
+      "solar": "2026-11-06",
+      "lunar": "28/9",
+      "weekday": "Thứ Sáu",
+      "color": "X",
+      "title": "Thứ Sáu đầu tháng, ngày đền tạ Trái Tim Đức Chúa Giêsu",
+      "content": "",
+      "readings": ["Pl 3,17–4,1", "Lc 16,1-8"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-11-07",
+      "solar": "2026-11-07",
+      "lunar": "29/9",
+      "weekday": "Thứ Bảy",
+      "color": "X",
+      "title": "Thứ Bảy đầu tháng, ngày đền tạ Trái Tim Đức Mẹ",
+      "content": "Thánh Vinhsơn Phạm Hiếu Liêm, linh mục; thánh Giaxintô 
+Gia, linh mục, tử đạo. (Lập đông).",
+      "readings": ["Pl 4,10-19", "Lc 16,9-15"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-11-08",
+      "solar": "2026-11-08",
+      "lunar": "30/9",
+      "weekday": "Chúa Nhật",
+      "color": "X",
+      "title": "CHÚA NHẬT XXXII THƯỜNG NIÊN",
+      "content": "Thánh vịnh tuần IV. Cầu cho việc học và dạy giáo lý. Xứ 
+Thiện Dưỡng, xứ Phát Vinh, xứ Liên Phương và họ Đông Thịnh (thuộc xứ Yên 
+Vân) chầu Mình Thánh. Thánh Giuse Nguyễn Đình Nghi, thánh Phaolô Nguyễn 
+Ngân, thánh Martinô Tạ Đức Thịnh, linh mục; thánh Martinô Thọ, thánh Gioan 
+Baotixita Cỏn, giáo dân, tử đạo.",
+      "readings": ["Kn 6,12-16", "1 Tx 4,13-18", "Mt 25,1-13"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-11-09",
+      "solar": "2026-11-09",
+      "lunar": "01/10",
+      "weekday": "Thứ Hai",
+      "color": "Tr",
+      "title": "CUNG HIẾN THÁNH ĐƯỜNG LATÊRANÔ",
+      "content": "Lễ kính.",
+      "readings": ["Ed 47,1-2.8-9.12 (hay 1 Cr 3,9c-11.16-17)", "Ga 
+2,13-22"],
+      "season": "Thường Niên",
+      "rank": "Lễ kính"
+    },
+    {
+      "id": "2026-11-10",
+      "solar": "2026-11-10",
+      "lunar": "02/10",
+      "weekday": "Thứ Ba",
+      "color": "Tr",
+      "title": "Thánh Lêô Cả, giáo hoàng, tiến sĩ Hội Thánh",
+      "content": "Lễ nhớ.",
+      "readings": ["Tt 2,1-8.11-14", "Lc 17,7-10"],
+      "season": "Thường Niên",
+      "rank": "Lễ nhớ"
+    },
+    {
+      "id": "2026-11-11",
+      "solar": "2026-11-11",
+      "lunar": "03/10",
+      "weekday": "Thứ Tư",
+      "color": "Tr",
+      "title": "Thánh Martinô, giám mục",
+      "content": "Lễ nhớ.",
+      "readings": ["Tt 3,1-7", "Lc 17,11-19"],
+      "season": "Thường Niên",
+      "rank": "Lễ nhớ"
+    },
+    {
+      "id": "2026-11-12",
+      "solar": "2026-11-12",
+      "lunar": "04/10",
+      "weekday": "Thứ Năm",
+      "color": "Đ",
+      "title": "Thánh Giôsaphát, giám mục, tử đạo",
+      "content": "Lễ nhớ.",
+      "readings": ["Plm 7-20", "Lc 17,20-25"],
+      "season": "Thường Niên",
+      "rank": "Lễ nhớ"
+    },
+    {
+      "id": "2026-11-13",
+      "solar": "2026-11-13",
+      "lunar": "05/10",
+      "weekday": "Thứ Sáu",
+      "color": "X",
+      "title": "Thứ Sáu",
+      "content": "",
+      "readings": ["2 Ga 4-9", "Lc 17,26-37"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-11-14",
+      "solar": "2026-11-14",
+      "lunar": "06/10",
+      "weekday": "Thứ Bảy",
+      "color": "X",
+      "title": "Thứ Bảy",
+      "content": "Thánh Stêphanô Thể, giám mục, tử đạo.",
+      "readings": ["3 Ga 5-8", "Lc 18,1-8"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-11-15",
+      "solar": "2026-11-15",
+      "lunar": "07/10",
+      "weekday": "Chúa Nhật",
+      "color": "X",
+      "title": "CHÚA NHẬT XXXIII THƯỜNG NIÊN",
+      "content": "Thánh vịnh tuần I. Ngày Quốc Tế vì người nghèo. KÍNH 
+TRỌNG THỂ CÁC THÁNH TỬ ĐẠO VIỆT NAM (Đ). Xứ Quân Triêm, xứ Kim Trung, xứ 
+Di Dân và họ Đại Áng chầu Mình Thánh. Được lãnh Ơn Toàn Xá tại các giáo 
+xứ. (Không cử hành lễ thánh Albertô Cả).",
+      "readings": ["Cn 31,10-13.19-20.30-31", "1 Tx 5,1-6", "Mt 25,14-30 
+(hay Mt 25,14-15.19-21)"],
+      "notes": "Phụng vụ Lời Chúa: chọn trong số lễ chung kính các thánh 
+tử đạo",
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-11-16",
+      "solar": "2026-11-16",
+      "lunar": "08/10",
+      "weekday": "Thứ Hai",
+      "color": "X",
+      "title": "Thứ Hai",
+      "content": "Thánh Margarita Scotland và thánh Gertruđê, trinh nữ 
+(Tr).",
+      "readings": ["Kh 1,1-4; 2,1-5a", "Lc 18,35-43"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-11-17",
+      "solar": "2026-11-17",
+      "lunar": "09/10",
+      "weekday": "Thứ Ba",
+      "color": "Tr",
+      "title": "Thánh nữ Êlisabeth Hungari",
+      "content": "Lễ nhớ.",
+      "readings": ["Kh 3,1-6.14-22", "Lc 19,1-10"],
+      "season": "Thường Niên",
+      "rank": "Lễ nhớ"
+    },
+    {
+      "id": "2026-11-18",
+      "solar": "2026-11-18",
+      "lunar": "10/10",
+      "weekday": "Thứ Tư",
+      "color": "X",
+      "title": "Thứ Tư",
+      "content": "Cung hiến thánh đường thánh Phêrô và thánh đường thánh 
+Phaolô (Tr).",
+      "readings": ["Kh 4,1-11", "Lc 19,11-28 (hay Cv 28,11-16.30-31; Mt 
+14,22-33)"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-11-19",
+      "solar": "2026-11-19",
+      "lunar": "11/10",
+      "weekday": "Thứ Năm",
+      "color": "X",
+      "title": "Thứ Năm",
+      "content": "",
+      "readings": ["Kh 5,1-10", "Lc 19,41-44"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-11-20",
+      "solar": "2026-11-20",
+      "lunar": "12/10",
+      "weekday": "Thứ Sáu",
+      "color": "X",
+      "title": "Thứ Sáu",
+      "content": "Thánh Phanxicô Xaviê Nguyễn Cần, thày giảng, tử đạo.",
+      "readings": ["Kh 10,8-11", "Lc 19,45-48"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-11-21",
+      "solar": "2026-11-21",
+      "lunar": "13/10",
+      "weekday": "Thứ Bảy",
+      "color": "Tr",
+      "title": "Đức Mẹ dâng mình trong đền thờ",
+      "content": "Lễ nhớ.",
+      "readings": ["Dcr 2,14-17", "Mt 12,46-50"],
+      "season": "Thường Niên",
+      "rank": "Lễ nhớ"
+    },
+    {
+      "id": "2026-11-22",
+      "solar": "2026-11-22",
+      "lunar": "14/10",
+      "weekday": "Chúa Nhật",
+      "color": "Tr",
+      "title": "ĐỨC GIÊSU KITÔ VUA VŨ TRỤ",
+      "content": "Lễ trọng. Xứ Hiếu Thuận và xứ Quảng Phúc chầu Mình 
+Thánh. (Không cử hành lễ thánh Cêcilia). (Tiểu tuyết).",
+      "readings": ["Ed 34,11-12.15-17", "1 Cr 15,20-26.28", "Mt 
+25,31-46"],
+      "season": "Thường Niên",
+      "rank": "Lễ trọng"
+    },
+    {
+      "id": "2026-11-23",
+      "solar": "2026-11-23",
+      "lunar": "15/10",
+      "weekday": "Thứ Hai",
+      "color": "X",
+      "title": "Thứ Hai",
+      "content": "Thánh vịnh tuần II. Thánh Clêmentê I, giáo hoàng, tử đạo 
+(Đ); thánh Côlumbanô, viện phụ (Tr).",
+      "readings": ["Kh 14,1-3.4b-5", "Lc 21,1-4"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-11-24",
+      "solar": "2026-11-24",
+      "lunar": "16/10",
+      "weekday": "Thứ Ba",
+      "color": "Đ",
+      "title": "CÁC THÁNH TỬ ĐẠO VIỆT NAM",
+      "content": "Quan thày Hội Thánh Việt Nam. Lễ trọng. (CD 878/90). * 
+Phụng vụ Lời Chúa: chọn trong số lễ chung kính các thánh tử đạo. Thánh 
+Phêrô Bôri Cao, giám mục; thánh Vinhsơn Nguyễn Thế Điểm; thánh Phêrô Vũ 
+Đăng Khoa, linh mục, tử đạo.",
+      "readings": ["Chọn trong số lễ chung kính các thánh tử đạo"],
+      "season": "Thường Niên",
+      "rank": "Lễ trọng"
+    },
+    {
+      "id": "2026-11-25",
+      "solar": "2026-11-25",
+      "lunar": "17/10",
+      "weekday": "Thứ Tư",
+      "color": "X",
+      "title": "Thứ Tư",
+      "content": "Thánh Catarina Alexanđria, trinh nữ, tử đạo (Đ).",
+      "readings": ["Kh 15,1-4", "Lc 21,12-19"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-11-26",
+      "solar": "2026-11-26",
+      "lunar": "18/10",
+      "weekday": "Thứ Năm",
+      "color": "X",
+      "title": "Thứ Năm",
+      "content": "Thánh Tôma Đinh Viết Dụ; thánh Đaminh Nguyễn Văn Xuyên, 
+linh mục, tử đạo.",
+      "readings": ["Kh 18,1-2.21-23; 19,1-3.9a", "Lc 21,20-28"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-11-27",
+      "solar": "2026-11-27",
+      "lunar": "19/10",
+      "weekday": "Thứ Sáu",
+      "color": "X",
+      "title": "Thứ Sáu",
+      "content": "",
+      "readings": ["Kh 20,1-4.11–21,2", "Lc 21,29-33"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-11-28",
+      "solar": "2026-11-28",
+      "lunar": "20/10",
+      "weekday": "Thứ Bảy",
+      "color": "X",
+      "title": "Thứ Bảy",
+      "content": "Thánh Anrê Trần Văn Trông, giáo dân, tử đạo. HẾT NĂM 
+PHỤNG VỤ 2025.",
+      "readings": ["Kh 22,1-7", "Lc 21,34-36"],
+      "season": "Thường Niên"
+    }
+  ]
 }
