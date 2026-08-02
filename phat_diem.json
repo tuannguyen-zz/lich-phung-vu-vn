@@ -1,0 +1,465 @@
+{
+  "metadata": {
+    "diocese": "Phát Diệm",
+    "diocese_code": "phat_diem",
+    "liturgical_year": "2025-2026",
+    "cycle": "A",
+    "weekday_cycle": "II",
+    "zodiac": "Ất Tỵ - Bính Ngọ",
+    "publisher": "Tòa Giám mục Phát Diệm",
+    "source": "NHỮNG NGÀY LỄ CÔNG GIÁO NĂM A 2025-2026",
+    "version": "1.0.0",
+    "updated": "2026-08-02",
+    "note": "Cập nhật bằng cách ghi đè file này mỗi năm. Không tạo file 
+theo năm."
+  },
+  "days": [
+    {
+      "id": "2025-11-30",
+      "solar": "2025-11-30",
+      "lunar": "11/10",
+      "weekday": "Chúa Nhật",
+      "color": "Tm",
+      "title": "CHÚA NHẬT I MÙA VỌNG",
+      "content": "Thánh vịnh tuần I. Bài đọc Chúa Nhật: Năm A. Xứ Kim Tạo 
+và xứ Yên Sơn chầu Mình Thánh.",
+      "readings": ["Is 2,1-5", "Rm 13,11-14a", "Mt 24,37-44"],
+      "notes": "Không cử hành lễ thánh Anrê. Trong các Chúa Nhật Mùa Vọng 
+không được cử hành thánh lễ an táng.",
+      "season": "Mùa Vọng"
+    },
+    {
+      "id": "2025-12-03",
+      "solar": "2025-12-03",
+      "lunar": "14/10",
+      "weekday": "Thứ Tư",
+      "color": "Tr",
+      "title": "THÁNH PHANXICÔ XAVIÊ, LINH MỤC",
+      "content": "Bổn mạng các xứ truyền giáo. Lễ kính. Thứ Tư đầu 
+tháng.",
+      "readings": ["1 Cr 9,16-19.22-23", "Mc 16,15-20"],
+      "season": "Mùa Vọng",
+      "rank": "Lễ kính"
+    },
+    {
+      "id": "2025-12-07",
+      "solar": "2025-12-07",
+      "lunar": "18/10",
+      "weekday": "Chúa Nhật",
+      "color": "Tm",
+      "title": "CHÚA NHẬT II MÙA VỌNG",
+      "content": "Thánh vịnh tuần II. Xứ Xích Thổ và xứ Phú Hậu chầu Mình 
+Thánh. Giỗ Đức Cha Alecxăng Maccu Thành (+1939).",
+      "readings": ["Is 11,1-10", "Rm 15,4-9", "Mt 3,1-12"],
+      "notes": "Không cử hành lễ thánh Ambrôsiô. (Đại tuyết)",
+      "season": "Mùa Vọng"
+    },
+    {
+      "id": "2025-12-08",
+      "solar": "2025-12-08",
+      "lunar": "19/10",
+      "weekday": "Thứ Hai",
+      "color": "Tr",
+      "title": "ĐỨC MẸ VÔ NHIỄM NGUYÊN TỘI",
+      "content": "Lễ trọng. Cha xứ dâng lễ cầu cho giáo dân.",
+      "readings": ["St 3,9-15.20", "Ep 1,3-6.11-12", "Lc 1,26-38"],
+      "season": "Mùa Vọng",
+      "rank": "Lễ trọng",
+      "is_obligation": true
+    },
+    {
+      "id": "2025-12-14",
+      "solar": "2025-12-14",
+      "lunar": "25/10",
+      "weekday": "Chúa Nhật",
+      "color": "Tm",
+      "title": "CHÚA NHẬT III MÙA VỌNG",
+      "content": "Thánh vịnh tuần III. Cầu cho việc học và dạy giáo lý. Xứ 
+Tân Khẩn và xứ Lạc Bình chầu Mình Thánh. Có thể dùng màu hồng.",
+      "readings": ["Is 35,1-6a.10", "Gc 5,7-10", "Mt 11,2-11"],
+      "notes": "Không cử hành lễ thánh Gioan Thánh Giá.",
+      "season": "Mùa Vọng"
+    },
+    {
+      "id": "2025-12-21",
+      "solar": "2025-12-21",
+      "lunar": "02/11",
+      "weekday": "Chúa Nhật",
+      "color": "Tm",
+      "title": "CHÚA NHẬT IV MÙA VỌNG",
+      "content": "Thánh vịnh tuần IV. Xứ Sơn Lũy và họ Quy Hậu (thuộc xứ 
+Tôn Đạo) chầu Mình Thánh.",
+      "readings": ["Is 7,10-14", "Rm 1,1-7", "Mt 1,18-24"],
+      "notes": "Không cử hành lễ thánh Phêrô Canisiô. (Đông chí)",
+      "season": "Mùa Vọng"
+    },
+    {
+      "id": "2025-12-25",
+      "solar": "2025-12-25",
+      "lunar": "06/11",
+      "weekday": "Thứ Năm",
+      "color": "Tr",
+      "title": "CHÚA GIÁNG SINH",
+      "content": "Lễ trọng với tuần bát nhật. Lễ buộc, nghỉ việc xác. Cha 
+xứ dâng lễ cầu cho giáo dân.",
+      "readings": {
+        "dem": ["Is 9,1-6", "Tt 2,11-14", "Lc 2,1-14"],
+        "rang_dong": ["Is 62,11-12", "Tt 3,4-7", "Lc 2,15-20"],
+        "ban_ngay": ["Is 52,7-10", "Dt 1,1-6", "Ga 1,1-18"]
+      },
+      "notes": "Không được cử hành thánh lễ an táng. Bái gối trong Kinh 
+Tin Kính.",
+      "season": "Mùa Giáng Sinh",
+      "rank": "Lễ trọng",
+      "is_obligation": true,
+      "is_holy_day": true
+    },
+    {
+      "id": "2025-12-28",
+      "solar": "2025-12-28",
+      "lunar": "09/11",
+      "weekday": "Chúa Nhật",
+      "color": "Tr",
+      "title": "THÁNH GIA: CHÚA GIÊSU, ĐỨC MARIA VÀ THÁNH GIUSE",
+      "content": "Lễ kính. Xứ An Ngải, Tân Hóa, Xuân Hồi, Yên Khê chầu 
+Mình Thánh.",
+      "readings": ["Hc 3,3-7.14-17a", "Cl 3,12-21", "Mt 2,13-15.19-23"],
+      "notes": "Không cử hành lễ Các Thánh Anh Hài.",
+      "season": "Mùa Giáng Sinh",
+      "rank": "Lễ kính"
+    },
+    {
+      "id": "2026-01-01",
+      "solar": "2026-01-01",
+      "lunar": "13/11",
+      "weekday": "Thứ Năm",
+      "color": "Tr",
+      "title": "THÁNH MARIA, MẸ THIÊN CHÚA",
+      "content": "Lễ trọng. Ngày Thế giới Hòa bình.",
+      "readings": ["Ds 6,22-27", "Gl 4,4-7", "Lc 2,16-21"],
+      "season": "Mùa Giáng Sinh",
+      "rank": "Lễ trọng",
+      "is_obligation": true
+    },
+    {
+      "id": "2026-01-04",
+      "solar": "2026-01-04",
+      "lunar": "16/11",
+      "weekday": "Chúa Nhật",
+      "color": "Tr",
+      "title": "CHÚA HIỂN LINH",
+      "content": "Lễ trọng. Cha xứ dâng lễ cầu cho giáo dân. Hội dòng Mến 
+Thánh Giá Phát Diệm, xứ Hoàng Mai và xứ Hải Cường chầu Mình Thánh.",
+      "readings": ["Is 60,1-6", "Ep 3,2-3a.5-6", "Mt 2,1-12"],
+      "season": "Mùa Giáng Sinh",
+      "rank": "Lễ trọng",
+      "is_obligation": true
+    },
+    {
+      "id": "2026-01-11",
+      "solar": "2026-01-11",
+      "lunar": "23/11",
+      "weekday": "Chúa Nhật",
+      "color": "Tr",
+      "title": "CHÚA GIÊSU CHỊU PHÉP RỬA",
+      "content": "Lễ kính. Cầu cho việc học và dạy giáo lý. Xứ Vô Hốt, 
+Antôn, Tri Điền chầu Mình Thánh. Khai mạc Năm Thánh 125 năm thành lập Giáo 
+phận. Được lãnh Ơn Toàn Xá.",
+      "readings": ["Is 42,1-4.6-7", "Cv 10,34-38", "Mt 3,13-17"],
+      "season": "Mùa Giáng Sinh",
+      "rank": "Lễ kính"
+    },
+    {
+      "id": "2026-02-17",
+      "solar": "2026-02-17",
+      "lunar": "01/01",
+      "weekday": "Thứ Ba",
+      "color": "Tr",
+      "title": "MỒNG MỘT TẾT BÍNH NGỌ – CẦU BÌNH AN CHO NĂM MỚI",
+      "content": "Có thể cử hành lễ ngoại lịch. Được lãnh Ơn Toàn Xá tại 
+các giáo xứ.",
+      "readings": {
+        "giao_thua": ["Ds 6,22-27", "1 Tx 5,16-26.28", "Mt 5,1-10"],
+        "tan_nien": ["St 1,14-18", "Pl 4,4-8", "Mt 6,25-34"]
+      },
+      "season": "Tết / Thường Niên"
+    },
+    {
+      "id": "2026-02-20",
+      "solar": "2026-02-20",
+      "lunar": "04/01",
+      "weekday": "Thứ Sáu",
+      "color": "Tm",
+      "title": "LỄ TRO",
+      "content": "Giữ chay và kiêng thịt (đã dời từ Thứ Tư vì trùng 
+Tết).",
+      "readings": ["Ge 2,12-18", "2 Cr 5,20–6,2", "Mt 6,1-6.16-18"],
+      "notes": "CGKPV vẫn đọc đúng ngày Thứ Tư Lễ Tro.",
+      "season": "Mùa Chay",
+      "is_fasting": true,
+      "is_abstinence": true
+    },
+    {
+      "id": "2026-02-22",
+      "solar": "2026-02-22",
+      "lunar": "06/01",
+      "weekday": "Chúa Nhật",
+      "color": "Tm",
+      "title": "CHÚA NHẬT I MÙA CHAY",
+      "content": "Thánh vịnh tuần I. Xứ Ứng Luật và xứ Phú Thuận chầu Mình 
+Thánh.",
+      "readings": ["St 2,7-9; 3,1-7", "Rm 5,12-19", "Mt 4,1-11"],
+      "season": "Mùa Chay"
+    },
+    {
+      "id": "2026-03-19",
+      "solar": "2026-03-19",
+      "lunar": "01/02",
+      "weekday": "Thứ Năm",
+      "color": "Tr",
+      "title": "THÁNH GIUSE, BẠN TRĂM NĂM ĐỨC MARIA",
+      "content": "Lễ trọng. Quan thày chung giáo tỉnh Hà Nội; quan thầy 
+giới Gia Trưởng. Cha xứ dâng lễ cầu cho giáo dân.",
+      "readings": ["2 Sm 7,4-5a.12-14a.16", "Rm 4,13.16-18.22", "Mt 
+1,16.18-21.24a"],
+      "season": "Mùa Chay",
+      "rank": "Lễ trọng",
+      "is_obligation": true
+    },
+    {
+      "id": "2026-03-25",
+      "solar": "2026-03-25",
+      "lunar": "07/02",
+      "weekday": "Thứ Tư",
+      "color": "Tr",
+      "title": "LỄ TRUYỀN TIN",
+      "content": "Lễ trọng.",
+      "readings": ["Is 7,10-14; 8,10", "Dt 10,4-10", "Lc 1,26-38"],
+      "notes": "Bái gối trong Kinh Tin Kính.",
+      "season": "Mùa Chay",
+      "rank": "Lễ trọng"
+    },
+    {
+      "id": "2026-03-29",
+      "solar": "2026-03-29",
+      "lunar": "11/02",
+      "weekday": "Chúa Nhật",
+      "color": "Đ",
+      "title": "CHÚA NHẬT LỄ LÁ",
+      "content": "Tưởng niệm cuộc Thương Khó của Chúa. Xứ Hoài Lai và họ 
+Mỹ Chính chầu Mình Thánh.",
+      "readings": {
+        "ruoc_la": ["Mt 21,1-11"],
+        "thanh_le": ["Is 50,4-7", "Pl 2,6-11", "Mt 26,14–27,66"]
+      },
+      "season": "Tuần Thánh"
+    },
+    {
+      "id": "2026-04-02",
+      "solar": "2026-04-02",
+      "lunar": "15/02",
+      "weekday": "Thứ Năm",
+      "color": "Tr",
+      "title": "THỨ NĂM TUẦN THÁNH – THÁNH LỄ TIỆC LY",
+      "content": "Thánh lễ Làm Phép Dầu (sáng). Thánh lễ Tiệc Ly 
+(chiều).",
+      "readings": {
+        "lam_phep_dau": ["Is 61,1-3a.6a.8b-9", "Kh 1,5-8", "Lc 4,16-21"],
+        "tiec_ly": ["Xh 12,1-8.11-14", "1 Cr 11,23-26", "Ga 13,1-15"]
+      },
+      "season": "Tam Nhật Vượt Qua"
+    },
+    {
+      "id": "2026-04-03",
+      "solar": "2026-04-03",
+      "lunar": "16/02",
+      "weekday": "Thứ Sáu",
+      "color": "Đ",
+      "title": "THỨ SÁU TUẦN THÁNH",
+      "content": "Tưởng niệm cuộc Thương Khó của Chúa. Giữ chay và kiêng 
+thịt.",
+      "readings": ["Is 52,13–53,12", "Dt 4,14-16; 5,7-9", "Ga 
+18,1–19,42"],
+      "season": "Tam Nhật Vượt Qua",
+      "is_fasting": true,
+      "is_abstinence": true
+    },
+    {
+      "id": "2026-04-04",
+      "solar": "2026-04-04",
+      "lunar": "17/02",
+      "weekday": "Thứ Bảy",
+      "color": "Tr",
+      "title": "VỌNG LỄ PHỤC SINH",
+      "content": "Canh Thức Vượt Qua.",
+      "readings": ["St 1,1–2,2", "St 22,1-18", "Xh 14,15–15,1a", "Is 
+54,5-14", "Is 55,1-11", "Br 3,9-15.32–4,4", "Ed 36,16-28", "Rm 6,3-11", 
+"Mt 28,1-10"],
+      "season": "Tam Nhật Vượt Qua"
+    },
+    {
+      "id": "2026-04-05",
+      "solar": "2026-04-05",
+      "lunar": "18/02",
+      "weekday": "Chúa Nhật",
+      "color": "Tr",
+      "title": "CHÚA NHẬT PHỤC SINH",
+      "content": "Mừng Chúa Sống Lại. Lễ trọng với tuần bát nhật. Nghỉ 
+việc xác. Cha xứ dâng lễ cầu cho giáo dân. Xứ Tam Châu và xứ Yên Bình chầu 
+Mình Thánh.",
+      "readings": ["Cv 10,34a.37-43", "Cl 3,1-4", "Ga 20,1-9"],
+      "season": "Mùa Phục Sinh",
+      "rank": "Lễ trọng",
+      "is_obligation": true,
+      "is_holy_day": true
+    },
+    {
+      "id": "2026-04-12",
+      "solar": "2026-04-12",
+      "lunar": "25/02",
+      "weekday": "Chúa Nhật",
+      "color": "Tr",
+      "title": "CHÚA NHẬT II PHỤC SINH – LÒNG THƯƠNG XÓT CHÚA",
+      "content": "Cuối tuần bát nhật. Xứ Tôn Đạo và xứ Hải Nạp chầu Mình 
+Thánh. Kỷ niệm 125 năm thành lập Hạt Đại diện Tông tòa. Được lãnh Ơn Toàn 
+Xá.",
+      "readings": ["Cv 2,42-47", "1 Pr 1,3-9", "Ga 20,19-31"],
+      "season": "Mùa Phục Sinh"
+    },
+    {
+      "id": "2026-05-17",
+      "solar": "2026-05-17",
+      "lunar": "01/04",
+      "weekday": "Chúa Nhật",
+      "color": "Tr",
+      "title": "CHÚA THĂNG THIÊN",
+      "content": "Lễ trọng. Cha xứ dâng lễ cầu cho giáo dân. Xứ Cách Tâm 
+chầu Mình Thánh. Được lãnh Ơn Toàn Xá.",
+      "readings": ["Cv 1,1-11", "Ep 1,17-23", "Mt 28,16-20"],
+      "season": "Mùa Phục Sinh",
+      "rank": "Lễ trọng",
+      "is_obligation": true
+    },
+    {
+      "id": "2026-05-24",
+      "solar": "2026-05-24",
+      "lunar": "08/04",
+      "weekday": "Chúa Nhật",
+      "color": "Đ",
+      "title": "CHÚA THÁNH THẦN HIỆN XUỐNG",
+      "content": "Lễ trọng, nghỉ việc xác. Cha xứ dâng lễ cầu cho giáo 
+dân. Xứ Hóa Lộc chầu Mình Thánh.",
+      "readings": ["Cv 2,1-11", "1 Cr 12,3b-7.12-13", "Ga 20,19-23"],
+      "season": "Mùa Phục Sinh",
+      "rank": "Lễ trọng",
+      "is_obligation": true,
+      "is_holy_day": true
+    },
+    {
+      "id": "2026-05-31",
+      "solar": "2026-05-31",
+      "lunar": "15/04",
+      "weekday": "Chúa Nhật",
+      "color": "Tr",
+      "title": "CHÚA BA NGÔI",
+      "content": "Lễ trọng. Xứ Hảo Nho chầu Mình Thánh.",
+      "readings": ["Xh 34,4b-6.8-9", "2 Cr 13,11-13", "Ga 3,16-18"],
+      "season": "Thường Niên",
+      "rank": "Lễ trọng"
+    },
+    {
+      "id": "2026-06-07",
+      "solar": "2026-06-07",
+      "lunar": "22/04",
+      "weekday": "Chúa Nhật",
+      "color": "Tr",
+      "title": "MÌNH VÀ MÁU THÁNH CHÚA KITÔ",
+      "content": "Lễ trọng. Cha xứ dâng lễ cầu cho giáo dân. Xứ Phát Diệm 
+chầu Mình Thánh.",
+      "readings": ["Đnl 8,2-3.14b-16a", "1 Cr 10,16-17", "Ga 6,51-58"],
+      "season": "Thường Niên",
+      "rank": "Lễ trọng",
+      "is_obligation": true
+    },
+    {
+      "id": "2026-06-12",
+      "solar": "2026-06-12",
+      "lunar": "27/04",
+      "weekday": "Thứ Sáu",
+      "color": "Tr",
+      "title": "THÁNH TÂM CHÚA GIÊSU",
+      "content": "Lễ trọng. Ngày thế giới xin ơn thánh hóa các linh mục.",
+      "readings": ["Đnl 7,6-11", "1 Ga 4,7-16", "Mt 11,25-30"],
+      "season": "Thường Niên",
+      "rank": "Lễ trọng"
+    },
+    {
+      "id": "2026-06-29",
+      "solar": "2026-06-29",
+      "lunar": "15/05",
+      "weekday": "Thứ Hai",
+      "color": "Đ",
+      "title": "THÁNH PHÊRÔ VÀ THÁNH PHAOLÔ, TÔNG ĐỒ",
+      "content": "Lễ trọng. Quan thày giáo phận. Cha xứ dâng lễ cầu cho 
+giáo dân. Được lãnh Ơn Toàn Xá.",
+      "readings": ["Cv 12,1-11", "2 Tm 4,6-8.17-18", "Mt 16,13-19"],
+      "season": "Thường Niên",
+      "rank": "Lễ trọng",
+      "is_obligation": true
+    },
+    {
+      "id": "2026-08-15",
+      "solar": "2026-08-15",
+      "lunar": "03/07",
+      "weekday": "Thứ Bảy",
+      "color": "Tr",
+      "title": "ĐỨC MẸ LÊN TRỜI",
+      "content": "Lễ trọng. Cha xứ dâng lễ cầu cho giáo dân. Được lãnh Ơn 
+Toàn Xá.",
+      "readings": ["Kh 11,19a; 12,1-6a.10b", "1 Cr 15,20-27", "Lc 
+1,39-56"],
+      "season": "Thường Niên",
+      "rank": "Lễ trọng",
+      "is_obligation": true
+    },
+    {
+      "id": "2026-11-01",
+      "solar": "2026-11-01",
+      "lunar": "23/09",
+      "weekday": "Chúa Nhật",
+      "color": "Tr",
+      "title": "CÁC THÁNH NAM NỮ",
+      "content": "Lễ trọng. Cha xứ dâng lễ cầu cho giáo dân. Xứ Bình Hòa 
+và xứ Ngọc Cao chầu Mình Thánh.",
+      "readings": ["Kh 7,2-4.9-14", "1 Ga 3,1-3", "Mt 5,1-12a"],
+      "season": "Thường Niên",
+      "rank": "Lễ trọng",
+      "is_obligation": true
+    },
+    {
+      "id": "2026-11-02",
+      "solar": "2026-11-02",
+      "lunar": "24/09",
+      "weekday": "Thứ Hai",
+      "color": "Tm",
+      "title": "CẦU CHO CÁC TÍN HỮU ĐÃ QUA ĐỜI",
+      "content": "Linh mục được cử hành 3 thánh lễ.",
+      "readings": ["Chọn trong Sách Bài Đọc cầu hồn"],
+      "season": "Thường Niên"
+    },
+    {
+      "id": "2026-11-22",
+      "solar": "2026-11-22",
+      "lunar": "14/10",
+      "weekday": "Chúa Nhật",
+      "color": "Tr",
+      "title": "ĐỨC GIÊSU KITÔ VUA VŨ TRỤ",
+      "content": "Lễ trọng. Xứ Hiếu Thuận và xứ Quảng Phúc chầu Mình 
+Thánh.",
+      "readings": ["Ed 34,11-12.15-17", "1 Cr 15,20-26.28", "Mt 
+25,31-46"],
+      "season": "Thường Niên",
+      "rank": "Lễ trọng"
+    }
+  ]
+}
